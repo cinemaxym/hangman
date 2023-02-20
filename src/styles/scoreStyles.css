@@ -1,0 +1,14 @@
+/* Score component styles */
+
+/* score-container styles */
+div.score-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+}
+
+/* h1 styles */
+div.score-container h1 {
+    font-size: 8rem;
+}

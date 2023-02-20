@@ -1,0 +1,9 @@
+/* VisualStates component styles */
+
+/* container styles */
+div.container{
+    width: 30%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
